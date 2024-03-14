@@ -1,0 +1,2 @@
+{"level":"error","message":"Registration error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"2024-03-14T10:23:50.403Z"}
+{"level":"error","message":"Registration error: Error: secretOrPrivateKey must have a value","timestamp":"2024-03-14T10:39:29.920Z"}
